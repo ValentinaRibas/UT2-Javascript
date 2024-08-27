@@ -10,5 +10,4 @@ function repeatString(texto, repeticiones){
     number.textContent = textos;
 }
 
-
 repeatString('hola',5);
